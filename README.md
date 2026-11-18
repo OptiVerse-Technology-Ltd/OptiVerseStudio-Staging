@@ -59,7 +59,7 @@ question of the form, and we will contact you.
 ### macOS (Apple 晶片)
 
 1. 打開下載的 `.dmg`，把 **OptiVerse Studio Staging** 拖到 [應用程式] 資料夾。
-2. 這個 App 沒有經過 Apple 公證，所以第一次開啟時 macOS 會擋下它。被擋下時，請到 [系統設定] > [隱私權與安全性] 允許開啟這個 App。
+2. 這個 App 沒有經過 Apple 公證，所以第一次開啟時 macOS 會擋下它，並顯示兩個按鈕。請按下方灰色的 [完成] (Done)。不要按上方藍色的按鈕 (Move to Trash)，它會把 App 移到垃圾桶，您就要從 `.dmg` 再拖曳一次。接著請到 [系統設定] > [隱私權與安全性] 允許開啟這個 App。
 3. 第一次設定時，App 會要求麥克風與錄製系統音訊的權限，並下載語音模型。摘要可以選內建模型或雲端服務。
 4. 之後的更新: [設定] > [關於] > [檢查更新]。
 
